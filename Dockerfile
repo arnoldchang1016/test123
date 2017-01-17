@@ -1,5 +1,5 @@
-#FROM php:5.6-apache
 FROM wordpress:latest
+
 
 # install the PHP extensions we need
 #RUN set -ex; \
