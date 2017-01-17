@@ -1,7 +1,4 @@
 FROM wordpress:latest
-
-
-# install the PHP extensions we need
 #RUN set -ex; \
 #	\
 RUN	apt-get update &&
